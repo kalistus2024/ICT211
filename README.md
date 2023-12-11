@@ -2,7 +2,7 @@
 
 ### 1. copy the link below to your terminal
 
-```git clone https://github.com/nath-277/Anime Characters```
+```git clone https://github.com/nath-277/Anime-Characters```
 
 ### 2. Navigate to the cloned project
 
