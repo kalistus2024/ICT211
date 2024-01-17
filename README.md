@@ -6,7 +6,7 @@
 
 ### 2. Navigate to the cloned project
 
-```cd marvelo```
+```cd Anime-Characters```
 
 ### 3. Install packages
 
