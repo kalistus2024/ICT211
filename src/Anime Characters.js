@@ -40,7 +40,7 @@ export const characters = [
   {
     name: "Anos Voligoad",
     alias: "Demon King",
-    abilities: ["Powered armor suit", "Genius-level intellect"],
+    abilities: ["Overcoming Destruction", "Immense Magic Power"],
     img1: "https://i.pinimg.com/736x/8e/50/57/8e505743fb7edbac3e4f8a16d8097021.jpg",
     homeworld: "Earth",
 
@@ -64,7 +64,7 @@ export const characters = [
   {
     name: "Sixth hookage",
     alias: "Kakashi",
-    abilities: ["Web-shooting", "Superhuman agility"],
+    abilities: ["Rasengan", "Ninjutsu"],
     anime: "Naruto",
     img1: "https://i.pinimg.com/originals/0b/48/30/0b4830e0846f564fc6b81c932b442a72.jpg",
     homeworld: "Earth",
@@ -85,7 +85,7 @@ export const characters = [
   {
     name: "Shadow monarch",
     alias: "Sung Jin-woo",
-    abilities: ["Necromancy", "Telepathic link with birds"],
+    abilities: ["Necromancy", "Telepathy"],
     anime: "Solo levelling",
     img1: "https://i.pinimg.com/736x/e5/51/23/e551232ec458ab6c82459a8327d9305d.jpg",
     homeworld: "Earth",
