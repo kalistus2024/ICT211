@@ -18,4 +18,4 @@
 
 ### 5. View the site on browser
 
-copy ```http://http://localhost:5173/``` to the browseR
+copy ```http://http://localhost:5173/``` to the browser
