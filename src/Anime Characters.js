@@ -14,8 +14,8 @@ export const characters = [
       "Saitama is a self-proclaimed superhero who can defeat every opponent that he encounters with a single punch.",
   },
   {
-    name: "Son Goku",
-    alias: "Super Saian",
+    name: "Super Saian",
+    alias: "Son Goku",
     img1: "https://i.pinimg.com/564x/ad/fa/86/adfa86338fa7617d8285893e31004e6c.jpg",
     homeworld: "Earth",
     abilities: [
